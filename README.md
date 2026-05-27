@@ -86,3 +86,9 @@ curl -X POST "http://localhost:8000/predict" \
 - Entorno: Google Colab con GPU Tesla T4
 - Framework: PyTorch 2.3.0 + torchvision 0.18.0
 - El notebook completo está en la carpeta `notebooks/`
+
+
+## Modelo entrenado
+
+El archivo `resnet50_finetuned.pth` no está incluido en el repositorio por su tamaño.  
+Disponible bajo petición o descargable desde Google Drive (contactar con el autor).
