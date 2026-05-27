@@ -1,6 +1,6 @@
 # Clasificación de imágenes de tráfico urbano para detección automática de incidencias
 
-TFM del Máster de Formación Permanente en Deep Learning — Universidad Politécnica de Madrid
+TFM del Máster Deep Learning — Universidad Politécnica de Madrid
 
 **Autor:** Yushetf López Jiménez  
 **Directores:** Dr. Silvia Alba Uribe Mayoral, Gustavo Adolfo Hernández Peñaloza
