@@ -18,15 +18,16 @@ Sistema de visión artificial basado en Deep Learning para la clasificación aut
 
 ## Estructura del repositorio
 
+```
 tfm-traffic-incidents/
-app/
-main.py       # API FastAPI
-model.py      # Carga del modelo y predicción
-models/         # Pesos del modelo entrenado (.pth)
-notebooks/      # Notebook de entrenamiento (Google Colab)
-requirements.txt
-README.md
-
+  app/
+    main.py       # API FastAPI
+    model.py      # Carga del modelo y predicción
+  models/         # Pesos del modelo entrenado (.pth)
+  notebooks/      # Notebook de entrenamiento (Google Colab)
+  requirements.txt
+  README.md
+```
 ## Datasets utilizados
 
 | Dataset | Fuente | Clases aportadas |
